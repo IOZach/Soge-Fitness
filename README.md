@@ -3,8 +3,8 @@
 > This is an extremely robust fitness windows application, for Soge Fitness Club, 
 > I have developed this application for my programming module in my foundation year back in 2012. 
 > I have got marked for 100% to be the only student achieved this mark at that module at that year at Manchester
-> Metropolitan University. The applicaiton is written in pure Visual Basic to meets the highest standard you could 
-> ever reach. All is well documented.
+> Metropolitan University. The applicaiton is written in pure Visual Basic to meet the highest standard you could 
+> possibly reach. All is well documented.
 
 
 ### Application Specification
@@ -39,7 +39,7 @@ You need Visual Studio 2011 and above to play the solution.
 
 ### License
 
-calculator.asm -- Assembly language calculator.
+Fitness Club Members Application.
 
 Copyright (c) 2015, IOZack.
 
@@ -58,4 +58,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-This program is a calculator of various operations has been built using Assembly Language.
+This program is a fitness club members application, where you can store, view members profiles.
