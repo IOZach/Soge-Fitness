@@ -1,0 +1,32 @@
+H:\FDNProgramming\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.exe
+H:\FDNProgramming\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.pdb
+H:\FDNProgramming\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.xml
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\ifcs.fitnessappform.resources
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\ifcs.addmemberform.resources
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\ifcs.Resources.resources
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.exe
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.xml
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.pdb
+H:\FDNProgramming\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.exe.manifest
+H:\FDNProgramming\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.application
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.TrustInfo.xml
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.exe.manifest
+H:\FDNProgramming\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.application
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.exe.manifest
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.application
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.exe
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.pdb
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\bin\Debug\Identification Fitness Club System.xml
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\ifcs.fitnessappform.resources
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\ifcs.addmemberform.resources
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\ifcs.Resources.resources
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\IFCS.vbproj.GenerateResource.Cache
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.TrustInfo.xml
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.exe.manifest
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.application
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.exe
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.xml
+C:\Users\Zack\Desktop\New Assignment\New Assignment\WindowsApplication1\obj\x86\Debug\Identification Fitness Club System.pdb
