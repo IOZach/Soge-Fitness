@@ -1,12 +1,6 @@
 #Soge Fitness Club Application
 
-> This is an extremely robust fitness windows application, for Soge Fitness Club, 
-> I have developed this application for my programming module in my foundation year back in 2012. 
-> I have got marked for 100% to be the only student achieved this mark at that module at that year at Manchester
-> Metropolitan University. The applicaiton is written in pure Visual Basic to meet the highest standard you could 
-> possibly reach. All is well documented.
-
-
+> Robust fitness windows application, for Soge Fitness Club, 
 ### Application Specification
 
 - Add Club Members Information
